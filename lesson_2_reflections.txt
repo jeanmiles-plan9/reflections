@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area are files that are ready to be committed. Working directory has files are not ready to be committed and will not be part of the commit.
+the value it offers is to allow you to choose some files to be committed while others are still be working on (not ready for commit).
