@@ -1,3 +1,9 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area are files that are ready to be committed. Working directory has files are not ready to be committed and will not be part of the commit.
 the value it offers is to allow you to choose some files to be committed while others are still be working on (not ready for commit).
+How can you use the staging area to make sure you have one commit per logical change?
+add only files that are related to change.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you have a great deal of changes that are related but need to be tested and created outside the main branch changes for a period of time.
+How do the diagrams help you visualize the branch structure?
+be able to see history line better and what changes are included and excluded in various branches.
